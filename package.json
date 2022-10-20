@@ -1,0 +1,15 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "todo list",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Igor",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
